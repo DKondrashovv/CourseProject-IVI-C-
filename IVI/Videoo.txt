@@ -1,0 +1,4 @@
+Vorona|Monetizatcia |training course,|125|3
+Kondrashov|Class String|training course,|125|41
+Buzova|Kak statм famous |Fantasy,Since ,|177.2|1
+Rymar|Game-design in Hyper-Casual |Computer since ,|2555.87|2
